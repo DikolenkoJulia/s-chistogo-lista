@@ -34,3 +34,27 @@ blockquote {
   color: #000;
   background-color: #ff0;
 }
+
+.header {
+  padding: 24px 20px;
+}
+
+.cover {
+  padding: 7px 24px 35px 20px;
+}
+
+.intro {
+  padding: 0 20px 38px;
+}
+
+.reasons {
+  padding: 40px 20px;
+}
+
+.how-to {
+  padding: 40px 20px 60px;
+}
+
+.footer {
+  padding: 20px;
+}
