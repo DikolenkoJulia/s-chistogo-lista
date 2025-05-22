@@ -27,12 +27,12 @@ blockquote {
 
 .content-section_theme_dark {
   color: #fff;
-  background-color: #000;
+  background-color: #131313;
 }
 
 .content-section_theme_bright {
-  color: #000;
-  background-color: #ff0;
+  color: #131313;
+  background-color: #fee42a;
 }
 
 .header {
