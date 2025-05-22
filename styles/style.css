@@ -1,9 +1,7 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
   margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
   background-color: #1e1e1e;
 }
 
@@ -19,4 +17,20 @@ ol,
 blockquote {
   margin: 0;
   padding: 0;
+}
+
+.content-section {
+  margin: 0 auto;
+  width: 360px;
+  box-sizing: border-box;
+}
+
+.content-section_theme_dark {
+  color: #fff;
+  background-color: #000;
+}
+
+.content-section_theme_bright {
+  color: #000;
+  background-color: #ff0;
 }
