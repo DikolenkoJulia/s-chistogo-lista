@@ -70,7 +70,32 @@ blockquote {
 }
 
 .cover {
-  padding: 7px 24px 35px 20px;
+  padding: 7px 24px 30px 20px;
+  min-height: 258px;
+  background-image: url(../images/cover.svg);
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: 95% auto;
+}
+
+.cover__title {
+  font-family: 'EB Garamond', serif;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 1;
+  color: inherit;
+}
+
+.accent-span {
+  display: block;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 .intro {
